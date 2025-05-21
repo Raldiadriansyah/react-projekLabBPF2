@@ -31,6 +31,9 @@ export default function ListMenu (){
               <li>
                 <NavLink id="menu-6" to="/error403"className={menuClass}><MdOutlinePeopleAlt className="mr-4 text-xl"/>   Error 403</NavLink>
               </li>
+              <li>
+                <NavLink id="menu-7" to="/HalamanGuestSedap"className={menuClass}><MdOutlinePeopleAlt className="mr-4 text-xl"/>   Quiss</NavLink>
+              </li>
         </ul>
     </div>
     )
