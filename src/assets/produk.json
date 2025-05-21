@@ -1,0 +1,37 @@
+[
+  {
+    "kode": "1",
+    "Nama": "Roti",
+    "harga": "15000",
+    "stok": "25",
+    "gambar": "roti.png"
+  },
+  {
+    "kode": "2",
+    "Nama": "Kopi",
+    "harga": "12000",
+    "stok": "40",
+    "gambar": "kopi.png"
+  },
+  {
+    "kode": "3",
+    "Nama": "Susu",
+    "harga": "18000",
+    "stok": "30",
+    "gambar": "susu.png"
+  },
+  {
+    "kode": "4",
+    "Nama": "Keju",
+    "harga": "25000",
+    "stok": "15",
+    "gambar": "keju.png"
+  },
+  {
+    "kode": "5",
+    "Nama": "Coklat",
+    "harga": "20000",
+    "stok": "20",
+    "gambar": "coklat.png"
+  }
+]
